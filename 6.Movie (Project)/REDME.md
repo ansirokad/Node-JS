@@ -34,42 +34,6 @@ Movies-Management/
 └── README.md
 ```
 
-## ⚙️ Installation & Setup
-
-**Step 1: Clone Repository**
-
-```bash
-git clone <your-repository-url>
-```
-
-**Step 2: Navigate to Project Folder**
-
-```bash
-cd Movies-Management
-```
-
-**Step 3: Install Dependencies**
-
-```bash
-npm install express mongoose
-```
-
-**Step 4: Start MongoDB**
-
-Make sure MongoDB is installed and running on your system.
-
-**Step 5: Run the Application**
-
-```bash
-node app.js
-```
-
-**Server URL:**
-
-```text
-http://localhost:3000
-```
-
 ## 🔗 API Documentation
 
 Base URL: `http://localhost:3000`
